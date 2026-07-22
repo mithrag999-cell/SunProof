@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 900" role="img" aria-labelledby="title desc">
+  <title id="title">Saanvi founder portrait</title>
+  <desc id="desc">Portrait artwork for Saanvi, founder of Project SunProof.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#29451f"/>
+      <stop offset="1" stop-color="#8ca65f"/>
+    </linearGradient>
+    <radialGradient id="skin" cx="48%" cy="35%" r="42%">
+      <stop offset="0" stop-color="#d89b74"/>
+      <stop offset="1" stop-color="#a86648"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="900" fill="url(#bg)"/>
+  <g opacity=".45" stroke="#b8d98b" stroke-width="8" stroke-linecap="round">
+    <path d="M-20 260c130-80 230-130 360-120s210 82 330 35"/>
+    <path d="M-20 160c160-95 310-65 440-115"/>
+    <path d="M50 80c20 170-10 300-60 440M180 0c-10 160 10 280 60 390M520 0c-50 140-75 270-55 420"/>
+  </g>
+  <ellipse cx="318" cy="740" rx="330" ry="165" fill="#b9c8a4"/>
+  <path d="M165 532c35-98 85-156 153-158 80-2 131 63 164 162l67 226H95z" fill="#e9d778"/>
+  <path d="M190 542c18-105 53-190 131-188 95 3 132 89 143 189-65 52-182 57-274-1z" fill="#161514"/>
+  <ellipse cx="318" cy="314" rx="105" ry="128" fill="url(#skin)"/>
+  <path d="M196 322c-8-132 74-205 144-198 89 9 139 83 122 205-53-58-118-88-266-7z" fill="#151414"/>
+  <path d="M181 357c5 122-5 217-70 311 147-31 230-102 232-304zM459 348c15 136 53 241 119 317-131-25-229-109-235-303z" fill="#151414"/>
+  <circle cx="279" cy="305" r="12" fill="#211817"/>
+  <circle cx="361" cy="305" r="12" fill="#211817"/>
+  <path d="M283 377c32 26 66 23 94 0" fill="none" stroke="#6b382d" stroke-width="8" stroke-linecap="round"/>
+  <path d="M250 268c26-16 52-17 76-4M338 264c27-12 54-8 78 9" stroke="#171313" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M172 574c-76 57-119 126-146 221h219zM469 574c76 57 119 126 146 221H396z" fill="#b68261"/>
+  <path d="M151 534c72 65 245 73 338 0l15 84c-91 70-260 66-368-2z" fill="#f0df8f" opacity=".9"/>
+</svg>
